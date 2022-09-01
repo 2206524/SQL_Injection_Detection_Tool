@@ -1,0 +1,12 @@
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLIDetector\obj\Debug\SQLIDetector.csprojAssemblyReference.cache
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLIDetector\obj\Debug\SQLIDetector.csproj.CoreCompileInputs.cache
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLIDetector\bin\Debug\SQLIDetector.dll
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLIDetector\bin\Debug\SQLIDetector.pdb
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLIDetector\obj\Debug\SQLIDetector.dll
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLIDetector\obj\Debug\SQLIDetector.pdb
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLI_DETECTION_TOOL\SQLIDetector\obj\Debug\SQLIDetector.csprojAssemblyReference.cache
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLI_DETECTION_TOOL\SQLIDetector\obj\Debug\SQLIDetector.csproj.CoreCompileInputs.cache
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLI_DETECTION_TOOL\SQLIDetector\obj\Debug\SQLIDetector.dll
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLI_DETECTION_TOOL\SQLIDetector\obj\Debug\SQLIDetector.pdb
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLI_DETECTION_TOOL\SQLIDetector\bin\Debug\SQLIDetector.dll
+C:\Users\BittuSunny\PJT_SQLI\PJT_SQLI\SQLI_DETECTION_TOOL\SQLIDetector\bin\Debug\SQLIDetector.pdb
