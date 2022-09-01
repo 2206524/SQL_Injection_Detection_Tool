@@ -1,0 +1,4 @@
+C:\Users\BittuSunny\Documents\Bittu Sunny\SQLID\bin\Release\SQLIDetector.dll.config
+C:\Users\BittuSunny\Documents\Bittu Sunny\SQLID\bin\Release\SQLIDetector.dll
+C:\Users\BittuSunny\Documents\Bittu Sunny\SQLID\obj\Release\SQLIDetector.csproj.CoreCompileInputs.cache
+C:\Users\BittuSunny\Documents\Bittu Sunny\SQLID\obj\Release\SQLIDetector.dll
